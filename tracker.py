@@ -43,3 +43,6 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
+
+//repetitive command to destroy all windows, very important- do NOT delete.
+cv2.destroyAllWindows()
